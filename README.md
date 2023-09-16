@@ -3,5 +3,5 @@
 The recommended way to start your rinodocs project
 
 ```
-npm create rinodocs
+npm create rinodocs@latest
 ```
