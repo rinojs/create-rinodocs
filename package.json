@@ -1,0 +1,25 @@
+{
+  "name": "create-rinodocs",
+  "version": "0.0.1",
+  "description": "The recommended way to start your rinodocs project",
+  "main": "index.js",
+  "bin": {
+    "create-rinodocs": "bin/cli.js"
+  },
+  "scripts": {
+    "rinodocs": "node bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinojs/create-rinodocs.git"
+  },
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rinojs/create-rinodocs/issues"
+  },
+  "homepage": "https://github.com/rinojs/create-rinodocs#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^3.1.1"
+  }
+}

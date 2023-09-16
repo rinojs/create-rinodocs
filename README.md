@@ -1,2 +1,7 @@
 # create-rinodocs
-Create rinodocs project
+
+The recommended way to start your rinodocs project
+
+```
+npm create rinodocs
+```
