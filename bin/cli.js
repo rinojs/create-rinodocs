@@ -91,11 +91,8 @@ then
 Build web pages from markdown in ./src/mds:
 npm run build
 
-How to test your pages:
-npm run view
-
-For theme development:
-npm run dev
+Build sitemap:
+npm run sitemap
         `);
     }
     catch (error)
